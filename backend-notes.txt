@@ -1,0 +1,3 @@
+1. Backend development is the server-side programming that handles data, databases, and APIs.
+2. Examples: Express.js, Django
+3. An API (Application Programming Interface) allows communication between different software applications.
